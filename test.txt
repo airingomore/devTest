@@ -1,3 +1,5 @@
 This is my feature commit to conflict commit
 
 And here we go with commit #2!
+
+Remote change!
